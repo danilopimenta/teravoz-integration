@@ -1,0 +1,64 @@
+{
+  "call.new": {
+    "type": "call.new",
+    "call_id": "1463669263.30033",
+    "code": "123456",
+    "direction": "inbound",
+    "our_number": "0800000000",
+    "their_number": "11999990000",
+    "their_number_type": "mobile",
+    "timestamp": "2017-01-01T00:00:00Z"
+  },
+  "call.standby": {
+    "type": "call.standby",
+    "call_id": "1463669263.30033",
+    "code": "123456",
+    "direction": "inbound",
+    "our_number": "0800000000",
+    "their_number": "11991910000",
+    "timestamp": "2017-01-01T00:00:00Z"
+  },
+  "call.waiting":  {
+    "type": "call.waiting",
+    "call_id": "1463669263.30033",
+    "code": "123456",
+    "direction": "inbound",
+    "our_number": "0800000000",
+    "their_number": "11991910000",
+    "timestamp": "2017-01-01T00:00:00Z"
+  },
+  "actor.entered":  {
+    "type": "actor.entered",
+    "call_id": "1463669263.30033",
+    "code": "123456",
+    "actor": "user.name@email.com",
+    "number": "200",
+    "timestamp": "2017-01-01T00:00:00Z"
+  },
+  "call.ongoing": {
+    "type": "call.ongoing",
+    "call_id": "1463669263.30033",
+    "code": "123456",
+    "direction": "inbound",
+    "our_number": "0800000000",
+    "their_number": "11991910000",
+    "timestamp": "2017-01-01T00:00:00Z"
+  },
+  "actor.left":  {
+    "type": "actor.left",
+    "call_id": "1463669263.30033",
+    "code": "123456",
+    "actor": "user.name@email.com",
+    "number": "200",
+    "timestamp": "2017-01-01T00:00:00Z"
+  },
+  "call.finished":  {
+    "type": "call.finished",
+    "call_id": "1463669263.30033",
+    "code": "123456",
+    "direction": "inbound",
+    "our_number": "0800000000",
+    "their_number": "11991910000",
+    "timestamp": "2017-01-01T00:00:00Z"
+  }
+}
